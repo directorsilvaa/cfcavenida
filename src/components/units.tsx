@@ -22,7 +22,7 @@ export function Units() {
           <Link
             target="_blank"
             href={
-              "https://www.google.com/maps/place/Autoescola+Avenida+SIM/@-12.2466515,-38.9261701,17z/data=!3m1!4b1!4m6!3m5!1s0x71439e0c7b5bf65:0x74e4ae800344fcf6!8m2!3d-12.2466568!4d-38.9235952!16s%2Fg%2F11sj9qn3c_?entry=ttu"
+              "https:///maps/place/Autoescola+Avenida+SIM/@-12.2466515,-38.9261701,17z/data=!3m1!4b1!4m6!3m5!1s0x71439e0c7b5bf65:0x74e4ae800344fcf6!8m2!3d-12.2466568!4d-38.9235952!16s%2Fg%2F11sj9qn3c_?entry=ttu"
             }
           >
             <Button className="bg-secondary hover:bg-secondary/80 text-black rounded-full w-14 h-14">
@@ -53,7 +53,7 @@ export function Units() {
           <Link
             target="_blank"
             href={
-              "https://www.google.com/maps/place/Auto+Escola+Avenida/@-12.2765379,-38.960756,17z/data=!3m1!4b1!4m6!3m5!1s0x71437ae26f3f699:0x62800563bc88080f!8m2!3d-12.2765432!4d-38.9561426!16s%2Fg%2F11c1ww436y?entry=ttu"
+              "https:///maps/place/Auto+Escola+Avenida/@-12.2765379,-38.960756,17z/data=!3m1!4b1!4m6!3m5!1s0x71437ae26f3f699:0x62800563bc88080f!8m2!3d-12.2765432!4d-38.9561426!16s%2Fg%2F11c1ww436y?entry=ttu"
             }
           >
             <Button className="bg-secondary hover:bg-secondary/80 text-black rounded-full w-14 h-14">
