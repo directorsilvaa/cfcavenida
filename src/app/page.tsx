@@ -112,7 +112,7 @@ export default function Home() {
               <div className="flex items-center gap-3">
                 <CarFront className="w-8 h-8 text-primary" />
                 <h2 className="text-2xl font-extrabold flex items-center">
-                  <CountingNumberAnimation targetNumber={93} duration={2000} />%
+                  <CountingNumberAnimation targetNumber={87} duration={2000} />%
                 </h2>
               </div>
               <p>Aprovação</p>
