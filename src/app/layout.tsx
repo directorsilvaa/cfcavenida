@@ -10,8 +10,8 @@ import { Footer } from "@/components/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Auto Escola Avenida",
-  description: "",
+  title: "Novo - Auto Escola Avenida",
+  description: "Com 14 anos de experiência, somos líderes em treinamento de direção. Nossos instrutores experientes e programas personalizados garantem que você se torne um motorista confiante. Não espere mais, junte-se a nós hoje para iniciar sua jornada na estrada com sucesso!",
 };
 
 export default function RootLayout({
