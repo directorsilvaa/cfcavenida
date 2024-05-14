@@ -43,7 +43,7 @@ export default function Home() {
             <ContactButton />
             <Dialog>
               <DialogTrigger asChild>
-                <Button variant={"secondary"}>Pré cadastro</Button>
+               
               </DialogTrigger>
 
               <DialogContent>
@@ -90,7 +90,7 @@ export default function Home() {
                       </SelectGroup>
                     </SelectContent>
                   </Select>
-                  <Button className="w-full">Fazer pré cadastro</Button>
+           
                 </div>
               </DialogContent>
             </Dialog>
