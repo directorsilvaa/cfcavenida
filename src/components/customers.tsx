@@ -36,7 +36,7 @@ export function Customers() {
             title="YouTube Video"
             width={"100%"}
             height="315"
-            src={`https://www.youtube.com/watch?v=sxkUEtZ_MtY`}
+            src={`watch?v=sxkUEtZ_MtY`}
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
