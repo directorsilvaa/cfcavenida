@@ -14,7 +14,7 @@ export function Customers() {
             title="YouTube Video"
             width={"100%"}
             height="315"
-            src={`https://youtube.com/shorts/2_nD8rMIHV4?si=SELn0rs3InwMsv0t`}
+            src={`https://www.youtube.com/embed/-8G_wlQNnSQ`}
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
