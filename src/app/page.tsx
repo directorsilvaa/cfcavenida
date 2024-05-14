@@ -48,9 +48,9 @@ export default function Home() {
 
               <DialogContent>
                 <DialogHeader>
-                  <DialogTitle>Pré Cadastro</DialogTitle>
+                  <DialogTitle></DialogTitle>
                   <DialogDescription>
-                    Escolha uma das nossas s
+                    Escolha uma das nossas 
                   </DialogDescription>
                 </DialogHeader>
                 <div className="space-y-2.5">
@@ -90,7 +90,7 @@ export default function Home() {
                       </SelectGroup>
                     </SelectContent>
                   </Select>
-           
+                  <Button className="w-full">Fazer pré cadastro</Button>
                 </div>
               </DialogContent>
             </Dialog>
