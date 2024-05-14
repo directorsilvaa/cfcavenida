@@ -27,7 +27,7 @@ export function ContactButton() {
             className="w-full md:w-1/2"
             target="_blank"
             href={
-              "https://api.whatsapp.com/send/?phone=5575988445004&text&type=phone_number&app_absent=0"
+              "https://wa.me/557536167104?text=Ol%C3%A1%2C+Vim+atrav%C3%A9s+do+site.+Poderia+me+ajudar%3F"
             }
           >
             <div className="w-full max-h-[400px] p-8 bg-white shadow border hover:border-primary hover:text-primary transition-all cursor-pointer rounded-lg">
@@ -43,7 +43,7 @@ export function ContactButton() {
             className="w-full md:w-1/2"
             target="_blank"
             href={
-              "https://api.whatsapp.com/send/?phone=7530229951&text&type=phone_number&app_absent=0"
+              "https://wa.me/message/IME2SXQQTUKHM1"
             }
           >
             <div className="w-full max-h-[400px] p-8 bg-white shadow border hover:border-primary hover:text-primary transition-all cursor-pointer rounded-lg">
