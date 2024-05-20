@@ -106,7 +106,7 @@ export function Footer() {
         </div>
         <div className="border-t border-zinc-800  mt-4 py-4">
           <p className="text-xs text-center text-white opacity-70">
-            2010 - 2024 &copy; Auto Escola Avenida™. Todos os Direitos Reservados by <a href="https://introti.com.br" className="no-underline text-red cursor-pointer text-bold">IntroTI</a>
+            2010 - 2024 &copy; Auto Escola Avenida™ 11.949.273/0001-01 .Todos os Direitos Reservados by <a href="https://introti.com.br" className="no-underline text-red cursor-pointer text-bold">IntroTI</a>
           </p>
         </div>
       </div>
