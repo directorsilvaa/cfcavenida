@@ -4,7 +4,8 @@ import "./globals.css";
 import { Menu } from "@/components/menu";
 import { TopBar } from "@/components/topbar";
 import { Footer } from "@/components/footer";
-import { Analytics } from "@vercel/analytics/react";
+import { Analytics } from "@vercel/analytics/react"
+
 
 
 
