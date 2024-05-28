@@ -32,9 +32,6 @@ export default function RootLayout({
         </div>
       </body>
       {children}
-      <body>
-        <Analytics />
-      </body>
     </html>
   );
 }
