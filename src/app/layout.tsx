@@ -9,6 +9,7 @@ import { Analytics } from "@vercel/analytics/react";
 
 
 
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -24,6 +25,7 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <body className={inter.className}>
+      <meta name="facebook-domain-verification" content="25xuowcpq6qzuo0bkpnu24vrjlmx0k" />
         <TopBar />
         <div className="w-full bg-apresentation bg-cover h-screen">
           <Menu />
