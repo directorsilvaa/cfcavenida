@@ -88,7 +88,7 @@ export default function Home() {
                         </SelectItem>
                         <SelectItem value="b">Av. Artêmia Pires</SelectItem>
                       </SelectGroup>
-                      <SelectItem value="b">FEIRA X </SelectItem>
+                      <SelectItem value="c">Feira X </SelectItem>
                     </SelectContent>
                   </Select>
                   <Button className="w-full">Fazer pré cadastro</Button>
