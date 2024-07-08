@@ -74,10 +74,10 @@ export function Units() {
       </div>
       <div className="w-full lg:w-1/3 py-10 flex items-center justify-end flex-col bg-gray-400 min-h-[550px] rounded-xl bg-breve bg-cover bg-center">
         <h4 className="text-[12px] opacity-80 font-semibold uppercase text-white">
-          {/* AUTOESCOLA AVENIDA */}
+          AUTOESCOLA AVENIDA 
         </h4>
         <h2 className="text-2xl font-bold text-white my-4 max-w-[380px] text-center">
-          {/* EM BREVE EM FEIRA DE SANTANA */}
+          EM BREVE EM FEIRA DE SANTANA 
         </h2>
         <div className="flex items-center gap-6">
           <Button className="bg-secondary hover:bg-secondary/80 text-black rounded-full w-14 h-14">
