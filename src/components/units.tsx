@@ -77,7 +77,7 @@ export function Units() {
           AUTOESCOLA AVENIDA 
         </h4>
         <h2 className="text-2xl font-bold text-white my-4 max-w-[380px] text-center">
-          EM BREVE EM FEIRA DE SANTANA 
+          Rua. B Numero 105 FEIRA X
         </h2>
         <div className="flex items-center gap-6">
           <Button className="bg-secondary hover:bg-secondary/80 text-black rounded-full w-14 h-14">
