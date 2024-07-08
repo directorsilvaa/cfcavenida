@@ -43,7 +43,7 @@ export default function Home() {
             <ContactButton />
             <Dialog>
               <DialogTrigger asChild>
-               
+              <Button variant={"secondary"}>Pré cadastro</Button>
               </DialogTrigger>
 
               <DialogContent>
