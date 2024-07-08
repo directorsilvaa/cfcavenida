@@ -31,7 +31,7 @@ export default function Home() {
       <div className="container h-[700px] lg:h-[400px]">
         <div className="text-center">
           <h1 className="text-3xl md:text-5xl font-extrabold w-full max-w-[700px] lg:mt-8 mt-16 mx-auto">
-            voce é um g...
+            Sua Jornada Rumo à Habilitação Começa Aqui!
           </h1>
 
           <p className="text-sm md:text-md opacity-75 my-6 mx-auto max-w-[700px]">
