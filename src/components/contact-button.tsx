@@ -23,6 +23,14 @@ export function ContactButton() {
           <DialogDescription>Escolha uma das nossas unidades</DialogDescription>
         </DialogHeader>
         <div className="flex flex-col md:flex-row items-center gap-6 text-center">
+              <h4 className="text-xs opacity-80 font-semibold uppercase">
+                UNIDADE FEIRA X
+              </h4>
+              <h2 className="text-md font-bold my-4 max-w-[380px] text-center">
+                Av. João Durval Carneiro, 267.
+              </h2>
+            </div>
+          </Link>
           <Link
             className="w-full md:w-1/2"
             target="_blank"
