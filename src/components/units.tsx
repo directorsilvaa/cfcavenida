@@ -63,12 +63,22 @@ export function Units() {
           <Link
             target="_blank"
             href={
-              "https://api.whatsapp.com/send/?phone=5575988445004&text&type=phone_number&app_absent=0"
+              "https://api.whatsapp.com/send/?phone=5575361671044&text&type=phone_number&app_absent=0"
             }
           >
             <Button className="bg-secondary hover:bg-secondary/80 text-black rounded-full w-14 h-14">
               <PhoneIcon />
             </Button>
+            <Button className="bg-secondary hover:bg-secondary/80 text-black rounded-full w-14 h-14">
+              <MapPin />
+            </Button>
+          </Link>
+          <Link
+            target="_blank"
+            href={
+              "https://api.whatsapp.com/send/?phone=7530229951&text&type=phone_number&app_absent=0"
+            }
+          >
           </Link>
         </div>
       </div>
